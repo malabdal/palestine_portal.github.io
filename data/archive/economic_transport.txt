@@ -1,0 +1,3636 @@
+﻿{
+    "data": [
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "992"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "740"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "676"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "670"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "694"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "816"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "768"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "688"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "608"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "750"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "685"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "571"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "643"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "17969"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "13913"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "15662"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "17314"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "18122"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "17143"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "15954"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "14790"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "16139"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "17435"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "16246"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "16203"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people wounded in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "17013"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main ports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "1"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2191000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "2577000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2676000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2962000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2951000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "3294000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3287000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3709700"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "3802000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "3797900"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "3774000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "3954100"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "4228500"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-sum of arrivals and departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "4483600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "18961"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "14653"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "16338"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "17984"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "18816"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "17959"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "16722"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "15478"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "16747"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "18185"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "16931"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "16774"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of people killed and injured in Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "17656"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Length of railway network lines in use",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "622"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Length of railway network lines in use",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "622"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Length of railway network lines in use",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "622"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of locomotives",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "49"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of locomotives",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "49"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of locomotives",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "36"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of passenger transport vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "15"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of passenger transport vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "13"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of passenger transport vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "15"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of freight wagons",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "369"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of freight wagons",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "372"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of freight wagons",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "297"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "12000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "19100"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "20000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Passenger-Kilometer",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2000000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Passenger-Kilometer",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1000000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Passenger-Kilometer",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "387287"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Passenger-Kilometer",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "854470"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Passenger-Kilometer",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1895417"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Passenger-Kilometer",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1000000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Passenger rail traffic in the national territory ",
+            "Unit Name": "Passenger-Kilometer",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1000000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Rail freight traffic in the national territory ",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1469000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Rail freight traffic in the national territory ",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1428600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Rail freight traffic in the national territory ",
+            "Unit Name": "Ton - Kilometer",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1000000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Rail freight traffic in the national territory ",
+            "Unit Name": "Ton - Kilometer",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "392000000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Rail freight traffic in the national territory ",
+            "Unit Name": "Ton - Kilometer",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "364000000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Rail freight traffic in the national territory ",
+            "Unit Name": "Ton - Kilometer",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "185500000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2933"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "2884"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2941"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "3024"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2900"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "2902"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "2892"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3088"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "2885"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "2693"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "2676"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "2435"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "2305"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "2183"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Vessels-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "2097"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "7601"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "7694"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "7768"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "7816"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "7878"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "7100"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "7204"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "7234"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "7299"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "7339"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "7348"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "7377"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "7483"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Total Road Surface -Total Road Type",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "7498"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "3109"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "3187"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "3206"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "3231"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "3246"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "2878"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "2878"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "2878"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "2754"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "2754"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "2758"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "2764"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "2805"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved - Asphalt",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "2982"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2103"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "2112"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2127"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2139"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2164"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1733"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1733"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1749"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1894"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1929"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "1934"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1948"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1999"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "1952"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2389"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "2395"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2435"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2446"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2468"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "2489"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "2593"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "2607"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "2651"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "2656"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "2656"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "2665"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "2679"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Road Network length-Not paved",
+            "Unit Name": "Km",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "2564"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "625918"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "701133"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "773504"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1027419"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1093934"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1159353"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1209150"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1329888"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "1411666"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1502133"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1583318"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "1635222"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total Vehicles",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "1680200"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "433755"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "491042"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "549786"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "757251"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "819706"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "875882"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "913659"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "933579"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "1011503"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1041010"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1140435"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-passenger cars",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "1177651"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "189904"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "207493"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "220824"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "151658"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "150983"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "153806"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "157921"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "252276"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "266103"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "282153"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "296011"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-lorries and pick up",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "298408"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2259"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "2598"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2894"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "3410"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3489"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3535"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "3565"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "20956"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "23566"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "24148"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "25116"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-Total buses, coaches,  and trolleybuses",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "25725"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "115100"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "119756"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "126130"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "134005"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "123077"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "110494"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "154822"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "121756"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of road motor vehicles in use (for freight and passengers)-other",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "133438"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "110630"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "101066"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "122793"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "139396"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "142588"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "112817"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "107864"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "102441"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "9712"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "10835"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "10446"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "10431"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Road Accidents",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "10900"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "448000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "674000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "581000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "575000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "397000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "340000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "354600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "335800"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "315000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "241800"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "212500"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "145300"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "132700"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Arrivals excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "132800"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "474000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "701000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "623000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "572000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "399000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "385000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "315000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "389700"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "355000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "208900"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "200000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "172100"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "152500"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Sea Passengers-Departures excluding cruises",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "137600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "12432000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "10145000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "10297000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "9165100"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "8302400"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "8795600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "10208400"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "11943800"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "11784400"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "13843500"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "13148600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "12218500"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "11734300"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "11092907"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "7998000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "7934000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "8617000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "9221000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "6970000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "9631000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "10862000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "9215000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "6815000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "7828400"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "5233400"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "4547600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "7193400"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Gross weight of sea freight-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "5031900"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of main airports",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Total length of tracks coated and longer than 2,438 m",
+            "Unit Name": "Meter",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of civil aircraft special transport and ambulance",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of civil aircraft special transport and ambulance",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of civil aircraft special transport and ambulance",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "4"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number aircraft private business",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number aircraft private business",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number aircraft private business",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "3"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "48888"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "54266"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "58416"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "64123"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "71241"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "76737"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "77411"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "81889"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "81553"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "83703"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "81478"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "83600"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "83570"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "84695"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "24449"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "27134"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "29227"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "31993"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "35654"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "38390"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "38725"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "40959"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "40786"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "41875"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "40742"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "41807"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "41815"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "42344"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "24439"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "27132"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "29189"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "32130"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "35587"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "38347"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "38686"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "40930"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "40767"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "41828"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "40736"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "41793"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "41755"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "Number of Aircrafts-Departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "42351"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "3464000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "3781000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "4134000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "4818000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "5130000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "5858000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "5978000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "6716000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "6930000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "7294000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "7249000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "7622000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "8140000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-sum of arrivals and departures",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "8661000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1717000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1876000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2053000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2390000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2552000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "2909000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "2972000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3320000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "3447000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "3589000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "3574000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "3782000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "4076000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Arrivals",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "4346000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1747000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1905000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2081000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2428000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2578000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "2949000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3006000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3396000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "3483000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "3705000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "3675000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "3840000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "4064000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "number of air transport passengers-Departures non-transit",
+            "Unit Name": "Number",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "4315000"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "104608"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "97734"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "93915"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "89458"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "82306"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "92777"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "90197"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "136579"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "102367"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "96240"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "104750"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "103369"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "112426"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded and Unloaded Total",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "106305"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "50023"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "46538"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "47517"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "47602"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "46733"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "52061"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "51856"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "92883"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "63072"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "59324"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "62824"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "62307"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "63486"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Unloaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "62968"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "54585"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "51196"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "46398"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "41856"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "35573"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "40716"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "38341"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "43696"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "39295"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "36916"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "41926"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "41062"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "48940"
+        },
+        {
+            "Country Name": "Jordan",
+            "Indicator Name": "air cargo and mail transported-Goods Loaded",
+            "Unit Name": "Ton",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "43337"
+        }
+    ]
+}

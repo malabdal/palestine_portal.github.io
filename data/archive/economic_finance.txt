@@ -1,0 +1,5386 @@
+﻿{
+    "data": [
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "3840810000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "4223230000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "4333410000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "4773640000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "5313500000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "6810010000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "8739590000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "10023180000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "11562190000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "11794940000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "12665440000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "13712170000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "15499970000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "16407470000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "16819530000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "18957700000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "20702400000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "22012600000"
+        },
+        {
+            "Indicator Name": "Banking credit",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "23047500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "128000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "105500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "102900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "98800000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "113600000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "110900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "140900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "156200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "210000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "231200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "211800000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "229200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "254900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "235700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "243000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "217100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "304500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "337300000"
+        },
+        {
+            "Indicator Name": "Banking credit - Agriculture, hunting and forestry",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "336700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "744900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "728900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "764900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "804500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "953200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1162100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1560800000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "1942100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2293100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2582500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "3167700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3463600000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3682600000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "4086400000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "4552800000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "4904500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "5827700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "6601000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Building and construction",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "6830900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "78410000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "80630000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "88510000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "87940000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "97300000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "103810000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "113590000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "141380000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "164590000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "169140000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "198440000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "237670000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "258870000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "281370000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "272730000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "170200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "288400000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "255200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Mining, manufacturing and utilities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "355700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "1112500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "1206100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "1250900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "1327300000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "1472900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1585000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1916600000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2434700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2897500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "3195400000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "3594000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3779000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3754900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "3937300000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "3683800000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "3883800000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "4075500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "4230900000"
+        },
+        {
+            "Indicator Name": "Banking credit - Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "4470600000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "1777000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "2102100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "2126200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "2455100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "2676500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "3848200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "5007700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "5348800000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "5997000000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "5616700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "5493500000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "6002700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "7548700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "7866700000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "8067200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "9782100000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "10206300000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "10588200000"
+        },
+        {
+            "Indicator Name": "Banking credit - Other activities",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "11053600000"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "913258110"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "273624824"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "238222849"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "546967560"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "936812412"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1984485190"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "3544005642"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2622143865"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2826255131"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2413098592"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1688591549"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1485915493"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1548309859"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1946760563"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "2178450704"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "1600281690"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1552957746"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "2029718000"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "954930000"
+        },
+        {
+            "Indicator Name": "FDI Inflows",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "915775000"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "3135110205"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "3428213580"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "3964039442"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "5004238370"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "8315667582"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "13228791578"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "12713134997"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "19012720751"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "20405797919"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "20761408451"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "21898591549"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "23384647887"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "24933097183"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "26945940845"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "29059421127"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "30628521127"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "32162507042"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "34250438000"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "35114087000"
+        },
+        {
+            "Indicator Name": "FDI Inward stock",
+            "Country Name": "Jordan",
+            "Unit Name": "US dollars",
+            "Source Name": "International",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "36202535000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "961900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "996400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "1000300000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "1083200000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "1428800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1765800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "2133500000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2472100000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2758100000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2879700000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "2986000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3062000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3351400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "3652400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "4037200000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "4096800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "4254300000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "4343600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "4535600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "4680800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "161000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "195400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "196200000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "191000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "217900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "363100000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "509100000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "596600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "707000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "846400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "702600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "741900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "791100000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "794600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "898400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "858700000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "944700000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "938000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "965000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Individual and corporate",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "1020200000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "520200000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "554400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "564500000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "603400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "917800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1034800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1238800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "1479800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "1690500000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "1698200000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1997800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "2033000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "2274700000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "2532900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "2811400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "2780000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "2883800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "2993500000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "3184600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Goods and Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "3302400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "264700000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "228500000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "219800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "232900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "266900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "334000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "345700000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "351300000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "306900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "290300000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "285600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "286900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "285600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "324900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "327300000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "333500000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "311000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "304300000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "292900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: International Trade",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "276600000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "648200000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "662200000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "644200000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "592400000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "718400000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "796000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1030900000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "1156000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "1617300000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "1307900000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1275100000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1136700000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1375500000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1467400000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1994000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "2700000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "2815300000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "3081700000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "3034000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "3073500000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "16000000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "18100000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "19800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "55900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "26200000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "33900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "39900000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "44400000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "53600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "44800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "124600000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "114800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "107800000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "93100000"
+        },
+        {
+            "Indicator Name": "Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "81600000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "1610100000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "1658600000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "1644100000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "1675600000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "2147200000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2561800000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "3164400000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "3628100000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "4375300000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "4187800000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "4261100000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "4198900000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "4726900000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "5119800000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "6031100000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "6796800000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "7069600000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "7425300000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "7839600000"
+        },
+        {
+            "Indicator Name": "Government revenues",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "7754300000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "2054100000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "2316300000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "2396200000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "2809800000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "3180500000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "3538900000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "3912200000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "4586500000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "5431900000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "6030500000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "5708000000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "6796000000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "6878200000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "7076900000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "7851100000"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "7722929050"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "7948617551"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "8173241733"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "8567301656"
+        },
+        {
+            "Indicator Name": "Government expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "8812700000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "1718300000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "1912500000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "1899900000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "2163700000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "2377800000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "2908000000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "3118100000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "3743900000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "4473400000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "4586000000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "4746600000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "5739000000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "6202800000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "6055900000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "6713600000"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "6624532544"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "6919351246"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "7113039854"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "7619590299"
+        },
+        {
+            "Indicator Name": "Current expenditures",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "7897200000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "293100000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "278000000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "251400000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "270000000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "229000000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "267100000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "317800000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "367300000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "352400000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "392200000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "397500000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "429000000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "582900000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "736500000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "925900000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "914181000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "837211100"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "853560000"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "1005787200"
+        },
+        {
+            "Indicator Name": "Interest payments",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "1113505200"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "335800000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "403800000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "496300000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "646100000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "802700000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "630900000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "794100000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "842600000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "958500000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "1444500000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "961400000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1057000000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "675400000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1021000000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1137500000"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "1098396506"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1029266305"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1060201879"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "947711357"
+        },
+        {
+            "Indicator Name": "Capital expenditure",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "915500000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "2026700000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "2119700000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "2316200000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "2919900000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "3193000000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "4061300000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "4566400000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "4833200000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "5573000000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "6039500000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "6550000000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "7271600000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "7211100000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "8408400000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "9231700000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "9880200000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "10386900000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "10135200000"
+        },
+        {
+            "Indicator Name": "Money supply (M1)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "9676300000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "7434700000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "7866100000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "8419100000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "9465700000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "10571400000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "12364000000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "14109700000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "15606900000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "18304300000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "20013300000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "22306700000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "24118900000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "24945100000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "27363400000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "29240400000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "31605500000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "32876200000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "32957600000"
+        },
+        {
+            "Indicator Name": "Money supply (M2)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "33359300000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "19500000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "-17700000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "355700000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "849800000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "27700000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "-1610600000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "-1223800000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "-2038000000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "-1457200000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "-882900000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "-1336300000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "-2099000000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "-3345300000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "-2487700000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "-1851700000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "-2418100000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "-2619200000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "-3053900000"
+        },
+        {
+            "Indicator Name": "Current Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "-2030000000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "-1541700000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "-1423000000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "-1227100000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "-1415300000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "-2395100000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "-3556300000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "-3584700000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "-4574200000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "-5084400000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "-4448800000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "-4823800000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "-6261700000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "-7486600000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "-8270100000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "-8495600000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "-7336200000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "-6807300000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "-7593200000"
+        },
+        {
+            "Indicator Name": "Trade balance(F.O.B)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "-7245200000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "-58400000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "-169000000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "-71400000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "-100000000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "-21400000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "-91900000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "18600000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "98400000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "451100000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "616600000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "936200000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "896000000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1332300000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1209500000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1778900000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "1235900000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "1035100000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "1455800000"
+        },
+        {
+            "Indicator Name": "Services",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "1765500000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "71200000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "114600000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "48900000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "92100000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "164000000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "182600000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "257800000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "408200000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "292100000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "266600000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "-152400000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "-187800000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "-275500000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "-240400000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "-295900000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "-307100000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "-216600000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "-146500000"
+        },
+        {
+            "Indicator Name": "Factor Income",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "-141600000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "1548400000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "1459700000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "1605300000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "2273000000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "2280200000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1855000000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "2084500000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "2029600000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "2884000000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "2682700000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "2713700000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "3454700000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3084900000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "4813300000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "5160900000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "3989300000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "3369600000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "3230000000"
+        },
+        {
+            "Indicator Name": "Current transfers",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "3591300000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "46000000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "15300000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "48800000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "66300000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "1500000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "6000000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "44500000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "9100000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "201300000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "400000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "200000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "0"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1800000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "45700000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "58300000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "80000000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "53000000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "30000000"
+        },
+        {
+            "Indicator Name": "Capital Account",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "24000000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "-222600000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "110900000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "-310700000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "-978700000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "-115500000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "1125900000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1325400000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "1649800000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "1100400000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "605200000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "799200000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "2298900000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "3832200000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1910400000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1026000000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "-1865400000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "-2322700000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "-2297000000"
+        },
+        {
+            "Indicator Name": "Financial  Account (net)",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "-2812500000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "157100000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "-108500000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "-93800000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "62600000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "86300000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "478700000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "-146100000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "379100000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "155500000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "277200000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "536900000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "-200100000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "-489100000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "531600000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "767600000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "472800000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "243400000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "726900000"
+        },
+        {
+            "Indicator Name": "Net Errors and Omissions",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "-806500000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "-486200000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "189200000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "-642900000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "-834400000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "-58100000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "-130100000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "-959600000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "-576900000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "-808800000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "-2209200000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "-1030700000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1172300000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "2325600000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "-3713500000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "-1678000000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "547600000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "-783100000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "-92400000"
+        },
+        {
+            "Indicator Name": "Change in Reserves",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "-676200000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2000",
+            "Value": "648200000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2001",
+            "Value": "662200000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2002",
+            "Value": "644200000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2003",
+            "Value": "592400000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2004",
+            "Value": "718400000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2005",
+            "Value": "796000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2006",
+            "Value": "1030900000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2007",
+            "Value": "1156000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2008",
+            "Value": "1617300000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2009",
+            "Value": "1307900000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2010",
+            "Value": "1275100000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2011",
+            "Value": "1136700000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2012",
+            "Value": "1375500000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2013",
+            "Value": "1467400000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2014",
+            "Value": "1994000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2015",
+            "Value": "2700000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2016",
+            "Value": "2815300000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2017",
+            "Value": "3081700000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2018",
+            "Value": "3034000000"
+        },
+        {
+            "Indicator Name": "Non-Tax Revenues: Other",
+            "Country Name": "Jordan",
+            "Unit Name": "Jordanian Dinar",
+            "Source Name": "National",
+            "Scale Name": "Units",
+            "Time": "2019",
+            "Value": "3073500000"
+        }
+    ]
+}

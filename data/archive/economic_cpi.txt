@@ -1,0 +1,2578 @@
+﻿{
+    "data": [
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "80.22"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "83.56"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "87.33"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "91.55"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "94.2"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "93.38"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "92.65"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "95.73"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "100.76"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "101.1"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "101.7"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "87.45"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "91.14"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "95.3"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "99.33"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "99.65"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "100.77"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "97.27"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "96.87"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "100.28"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "102.61"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "102.6"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "69.79"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "71.82"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "72.84"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "65.86"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "75.71"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "78.38"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "80.88"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "87.25"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "98.41"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "101.37"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "104.2"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "77.97"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "82.39"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "85.81"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "89.29"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "97.63"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "102.38"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "103.95"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "101.5"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "98.34"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "97.48"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "95.5"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "76.85"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "79.81"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "82.54"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "88.17"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "92.36"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "92.89"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "93.97"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "96.59"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "101.55"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "99.7"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "101.8"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "84.88"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "87.25"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "89.81"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "91.9"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "94.01"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "95.81"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "96.76"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "98.29"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "100.96"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "101.54"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "102"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "71.62"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "74.57"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "80.43"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "77.2"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "82.04"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "84.17"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "87.33"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "94.71"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "101.9"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "104.64"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "107.2"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "73.87"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "79.11"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "86.32"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "95.69"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "97.69"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "83.87"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "80.57"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "90.98"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "100.59"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "98.61"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "101.3"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "103.26"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "98.27"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "98.28"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "98.33"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "98.26"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "98.32"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "98.11"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "99.84"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "100.01"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "100.95"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "103.2"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "77.62"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "79.25"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "80.63"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "80.5"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "82.57"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "87.13"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "91.16"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "97.89"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "97.56"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "98.51"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "97.4"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "78.53"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "81.93"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "84.14"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "87.21"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "90.16"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "92.93"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "94.66"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "97.36"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "102.57"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "104.39"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "105.6"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "70.58"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "75.11"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "80.57"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "88.92"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "90.76"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "91.98"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "93.05"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "93.26"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "102.58"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "104.76"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "106.6"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2010",
+            "Value": "76.9"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2011",
+            "Value": "80.53"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2012",
+            "Value": "83.67"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2013",
+            "Value": "88.52"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2014",
+            "Value": "89.68"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2015",
+            "Value": "90.4"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2016",
+            "Value": "92.41"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2017",
+            "Value": "98.21"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2018",
+            "Value": "100"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2019",
+            "Value": "101.36"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2020",
+            "Value": "103.55"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Consumer price index",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Unit",
+            "Time": "2021",
+            "Value": "103.6"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "4.162441629"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "4.515229567"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "4.824623143"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "2.89947905"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "-0.87685136"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "-0.778430463"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "3.323894476"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "4.462311085"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "0.761514047"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "General CPI",
+            "CPI groups Original name": "General CPI",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "0.333294351"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "4.223206925"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "4.55855596"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "4.232584553"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "0.32127939"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "1.124247699"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "-3.476873581"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "-0.41030935"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "3.232923578"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "0.277362119"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Food and non-alcoholic beverages",
+            "CPI groups Original name": "Food and beverages",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "2.325728991"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "2.900453056"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "1.431788593"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "-9.585651724"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "14.9599539"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "3.519667576"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "3.188927389"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "7.882455231"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "14.60799133"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "-1.589583128"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Alcoholic beverages, tobacco and narcotics",
+            "CPI groups Original name": "Alcoholic beverages, tobacco and narcotics",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "3.005605399"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "5.663059622"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "4.156072194"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "4.05734583"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "9.339695649"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "4.861448631"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "1.530253271"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "-2.357555807"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "-1.473824878"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "-1.655248385"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Clothing and footwear",
+            "CPI groups Original name": "Clothing and footwear",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "-0.882722574"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "3.85046232"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "3.413940644"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "6.831908862"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "4.750352032"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "0.574436803"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "1.155121302"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "2.794304523"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "3.52734507"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "1.549296667"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Housing, water, electricity, gas and other fuels",
+            "CPI groups Original name": "Housing, water, electricity, gas and other fuels",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "-1.818375137"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "2.7941081"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "2.935090157"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "2.322327831"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "2.302985941"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "1.904340007"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "0.997870508"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "1.581328538"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "1.73830336"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "0.959298432"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Furnishings, household equipment and routine household maintenance",
+            "CPI groups Original name": "Furnishings, household equipment and routine household maintenance",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "0.579199052"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "4.117060069"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "7.852099484"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "-4.013902094"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "6.277675143"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "2.587925681"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "3.757175262"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "8.454746176"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "5.583144221"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "1.900999074"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Health",
+            "CPI groups Original name": "Health",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "2.685595647"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "7.09919286"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "9.111148045"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "10.85717892"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "2.089885803"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "-14.14598544"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "-3.939405927"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "12.91909966"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "9.918557515"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "0.591613418"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Transport",
+            "CPI groups Original name": "Transport",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "-1.970435303"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "-4.836927137"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "0.011764892"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "0.05142496"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "-0.066833314"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "0.056364969"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "-0.214191206"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "1.767646689"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "0.158860334"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "0.009494778"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Information and Communication",
+            "CPI groups Original name": "Information and Communication",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "0.938729664"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "2.095104983"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "1.740438472"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "-0.161448693"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "2.573253747"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "5.521347624"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "4.629945569"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "7.384679551"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "2.150278656"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "-2.443046792"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Recreation, sport and culture",
+            "CPI groups Original name": "Recreation, sport and culture",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "0.981648252"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "4.335326231"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "2.691306667"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "3.65083491"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "3.385104263"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "3.06728767"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "1.871649017"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "2.851475022"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "2.707030888"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "2.574819412"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Education",
+            "CPI groups Original name": "Education",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "1.770410466"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "6.424207095"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "7.266533364"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "10.36033096"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "2.074538446"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "1.344361218"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "1.164090424"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "0.216600351"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "7.232567376"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "2.581919299"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Restaurants and accommodation services",
+            "CPI groups Original name": "Restaurants and accommodation services",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "2.119220395"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2011",
+            "Value": "4.717543412"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2012",
+            "Value": "3.898916968"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2013",
+            "Value": "5.794150404"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2014",
+            "Value": "1.315631151"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2015",
+            "Value": "0.806166473"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2016",
+            "Value": "2.218256048"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2017",
+            "Value": "6.272994099"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2018",
+            "Value": "1.827078998"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2019",
+            "Value": "1.358581617"
+        },
+        {
+            "Country Name": "Jordan (Base 2018)",
+            "Indicator Name": "Inflation rate (Annual)",
+            "CPI groups Name": "Miscellaneous goods and services",
+            "CPI groups Original name": "Miscellaneous goods and services",
+            "Unit Name": "Percent",
+            "Time": "2020",
+            "Value": "2.162423795"
+        }
+    ]
+}

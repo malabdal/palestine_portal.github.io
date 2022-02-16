@@ -1,0 +1,433 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#example_filter input {
+    width: 100%; 
+}
+
+#example_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example2_filter input {
+    width: 100%; 
+}
+
+#example2_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example2_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example3_filter input {
+    width: 100%; 
+}
+
+#example3_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example3_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example4_filter input {
+    width: 100%; 
+}
+
+#example4_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example4_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example5_filter input {
+    width: 100%; 
+}
+
+#example5_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example5_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example6_filter input {
+    width: 100%; 
+}
+
+#example6_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example6_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example7_filter input {
+    width: 100%; 
+}
+
+#example7_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example7_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example8_filter input {
+    width: 100%; 
+}
+
+#example8_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example8_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example9_filter input {
+    width: 100%; 
+}
+
+#example9_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example9_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example10_filter input {
+    width: 100%; 
+}
+
+#example10_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example10_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example11_filter input {
+    width: 100%; 
+}
+
+#example11_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example11_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example12_filter input {
+    width: 100%; 
+}
+
+#example12_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example12_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example13_filter input {
+    width: 100%; 
+}
+
+#example13_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example13_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example14_filter input {
+    width: 100%; 
+}
+
+#example14_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example14_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example15_filter input {
+    width: 100%; 
+}
+
+#example15_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example15_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example16_filter input {
+    width: 100%; 
+}
+
+#example16_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example16_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+#example17_filter input {
+    width: 100%; 
+}
+
+#example17_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example17_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+
+
+.dt-buttons{
+    float: right;
+}
+
+.dt-buttons button {
+    margin-right: 3px;
+    margin-top: 3px;
+    background-color: #6772e5;
+    border-color: #6772e5;
+}
+
+.dt-buttons button:hover {
+    margin-right: 3px;
+    background-color: #4553e6;
+    border-color: #4553e6;
+}
+
+#example_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+
+#example2_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example3_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+
+#example4_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example5_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example6_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example7_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example8_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example9_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example10_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example11_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example12_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example13_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example14_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example15_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example16_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+#example17_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+
+#example_paginate .paginate_button {
+    background-color: #f0f2f9 ;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    border-bottom: none !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background: rgba(103, 114, 229, 0.4) !important;
+    border: none !important
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: rgba(103, 114, 229, 0.2) !important;
+    background-color: rgba(3, 5, 27, 0.2) !important;
+    border: none !important
+}
+
+#header_filters tr th select{
+    border: 1px solid #B9C3CF !important;
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+
+.dataTables_scrollHeadInner  {
+    width: 100% !important;
+    position:unset;
+    overflow: auto;
+}
+.dataTables_scrollHeadInner table  {
+    width: 100% !important;
+    position:unset;
+    overflow: auto;
+}
+
+
+td.highlight {
+    background-color: rgba(103, 114, 229, 0.08) !important;
+}
+
+.dataTables_scrollHeadInner {
+    overflow: initial !important;
+}
+
+.dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody > table > thead > tr > th, .dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody > table > thead > tr > td, .dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody > table > tbody > tr > th, .dataTables_wrapper .dataTables_scroll div.dataTables_scrollBody > table > tbody > tr > td {
+    vertical-align: initial !important;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    padding-top: 1.25em !important;
+}
+
+@media (max-width: 767.98px) {
+.navbar > .container, .navbar > .container-fluid {
+    background-color: #32325D !important;
+}}
+
+@media only screen and (max-width: 767.98px){
+    section #related-portals {
+        padding-top: 0px !important;
+}}
+
+.form-select-sm {
+    width: inherit;
+}
+
+

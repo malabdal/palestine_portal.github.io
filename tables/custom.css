@@ -1,0 +1,83 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+#example_filter input {
+    width: 100%; 
+}
+
+#example_filter {
+    width: 100%;
+    padding-top: 1.5%;
+}
+
+#example_filter label {
+    float: left;
+    text-align: left;
+    width: 100%;
+    min-width: none;
+}
+
+.dt-buttons{
+    float: right;
+}
+
+.dt-buttons button {
+    margin-right: 3px;
+    margin-top: 3px;
+    background-color: #6772e5;
+    border-color: #6772e5;
+}
+
+.dt-buttons button:hover {
+    margin-right: 3px;
+    background-color: #4553e6;
+    border-color: #4553e6;
+}
+
+#example_filter input {
+    border-radius: 5px;
+    border: 1px solid #B9C3CF !important
+}
+
+
+#example_paginate .paginate_button {
+    background-color: #f0f2f9 ;
+}
+
+table.dataTable thead th, table.dataTable thead td {
+    border-bottom: none !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.current, .dataTables_wrapper .dataTables_paginate .paginate_button.current {
+    background: rgba(103, 114, 229, 0.4) !important;
+    border: none !important
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button:hover {
+    background: rgba(103, 114, 229, 0.2) !important;
+    background-color: rgba(3, 5, 27, 0.2) !important;
+    border: none !important
+}
+
+#header_filters tr th select{
+    border: 1px solid #B9C3CF !important;
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+}
+
+.dataTables_scrollHeadInner  {
+    width: 100% !important;
+    position:unset;
+    overflow: auto;
+}
+.dataTables_scrollHeadInner table  {
+    width: 100% !important;
+    position:unset;
+    overflow: auto;
+}
+
+
+
+td.highlight {
+    background-color: rgba(103, 114, 229, 0.2) !important;
+}

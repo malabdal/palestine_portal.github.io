@@ -1,0 +1,9 @@
+/**
+ * @file
+ * Subtheme specific CSS.
+ */
+
+a.language-link.is-active,
+a.mobile-language-link.is-active {
+  display:none;
+}

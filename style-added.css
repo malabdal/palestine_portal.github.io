@@ -1,0 +1,28 @@
+
+
+.dropdown-menu .row .icon-md {
+    max-width: 75px;
+}
+
+
+.dropdown-menu .container .row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.offset-eng-right {
+    margin-right: 50%;
+}
+
+@media (min-width: 992px){
+    section#home-slider {
+        margin-top: -13rem !important;
+    };
+}
+
+
+.tab-content a {
+    color: #23233A !important;
+    font-weight: bold;
+   
+}
